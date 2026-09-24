@@ -1546,6 +1546,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 [Back to top 🔝](#contents)
 
 ## Utilities
+- [BoringTools](https://www.boringtoolsai.com/) - 100+ open-source client-side developer and productivity utilities running entirely in-browser with 0 server uploads (WASM/Web Workers). [Source Code](https://github.com/ius-sharma/boring-tools)
 - [Deskreen](https://github.com/pavlobu/deskreen) - Turn any device into a secondary screen for your computer.
 - [Loggit](https://loggit.net) - Simple and Encrypted Life Tracking & Logging.
 
